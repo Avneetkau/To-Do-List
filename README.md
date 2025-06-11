@@ -17,7 +17,7 @@ A simple and interactive To-Do List Web App built with React.js and JavaScript. 
 
 ## ⚙️ Getting Started (Run Locally)
 **1. Clone the Repository**
-git clone https://github.com/your-username/todo-list-react.git
+git clone https://github.com/Avneetkau/To-Do-List
 cd todo-list-react
 
 **2. Install Dependencies**
